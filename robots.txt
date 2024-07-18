@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://budeferate.github.io/sitemap
+Sitemap: https://budeferate.github.io/app/sitemap
+Sitemap: https://budeferate.github.io/assets/sitemap
+Sitemap: https://budeferate.github.io/css/sitemap
+Sitemap: https://budeferate.github.io/includes/sitemap
+Sitemap: https://budeferate.github.io/item/sitemap
+Sitemap: https://budeferate.github.io/src/sitemap
